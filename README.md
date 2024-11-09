@@ -6,6 +6,7 @@ An EU company provides an invoice for a suitable service (marketing, sales lead 
 Added bonus is non-KYC, clean BTC/crypto.
 
 Can be a repeat business with monthly volume of low (to mid) 5 figures. Depends mostly on your revenue. For example more than 5% of turnover to marketing is not advisable.
+Ready willing and ableto use any esrcrow service at customers discretion and cost.
 
 Can be used to cash out dividends, pay emplyees, etc.
 
