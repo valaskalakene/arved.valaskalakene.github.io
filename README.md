@@ -8,5 +8,5 @@ Can be a repeat business with monthly volume of low (to mid) 5 figures. Depends 
 Can be used to cash out dividends, pay emplyees, etc.
 
 
-TG
-mail
+[TG](https://t.me/Arvete)
+valaskalakene@proton.me
