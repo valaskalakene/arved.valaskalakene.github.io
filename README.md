@@ -10,4 +10,4 @@ Can be used to cash out dividends, pay emplyees, etc.
 
 [TG](https://t.me/Arvete)
 
-[mail](valaskalakene@proton.me)
+valaskalakene@proton.me
