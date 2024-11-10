@@ -13,6 +13,6 @@ Can be used to cash out dividends, pay emplyees, etc.
 
 [TG](https://t.me/Arvete)
 
-@hannesur:matrix.org
+[@hannesur:matrix.org](https://matrix.to/#/@hannesur:matrix.org)
 
 valaskalakene@proton.me
