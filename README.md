@@ -1,7 +1,7 @@
 
 A simple and elegant tax free cashout into crypto service for businesses with VAT#.
 
-An EU company provides an invoice for a suitable service (marketing, sales lead generation, etc) and sends the amount minus comission (6%) to a provided crypto address(es). 
+An EU company provides an invoice for a suitable service (marketing, sales lead generation, etc) and sends the amount minus comission (6%) to a provided crypto address(es). Can be a new service or can channel an existing service through.
 Can (and should) be done using an escrow service.
 
 Added bonus is non-KYC, clean BTC/crypto.
